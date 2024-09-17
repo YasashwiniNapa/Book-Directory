@@ -1,0 +1,72 @@
+[
+  {
+    "author": "Jane Austen",
+    "title": "Pride and Prejudice",
+    "synopsis": "A classic novel exploring themes of love, class, and societal expectations in 19th century England.",
+    "release_date": "1813-01-28",
+    "id": 1
+  },
+  {
+  "author": "George Orwell",
+  "title": "1984",
+  "synopsis": "A dystopian novel about a totalitarian regime that uses surveillance and propaganda to control its citizens.",
+  "release_date": "1949-06-08",
+  "id": 2
+  },
+  {
+  "author": "J.K. Rowling",
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "synopsis": "The first book in the Harry Potter series, following a young wizard's adventures at Hogwarts School of Witchcraft and Wizardry.",
+  "release_date": "1997-06-26",
+  "id": 3
+  },
+  {
+  "author": "Mark Twain",
+  "title": "The Adventures of Tom Sawyer",
+  "synopsis": "A novel about a young boy's adventures in the American South, exploring themes of freedom and childhood.",
+  "release_date": "1876-06-01",
+  "id": 4
+  },
+  {
+  "author": "J.R.R. Tolkien",
+  "title": "The Hobbit",
+  "synopsis": "A fantasy novel about the quest of Bilbo Baggins, a hobbit who helps a group of dwarves reclaim their homeland from a dragon.",
+  "release_date": "1937-09-21",
+  "id": 5
+  },
+  {
+  "author": "F. Scott Fitzgerald",
+  "title": "The Great Gatsby",
+  "synopsis": "A novel set in the Jazz Age that critiques the American Dream through the mysterious and wealthy Jay Gatsby.",
+  "release_date": "1925-04-10",
+  "id": 6
+  },
+  {
+  "author": "Harper Lee",
+  "title": "To Kill a Mockingbird",
+  "synopsis": "A novel exploring racial injustice and moral growth in the American South through the eyes of a young girl.",
+  "release_date": "1960-07-11",
+  "id": 7
+  },
+  {
+  "author": "Gabriel García Márquez",
+  "title": "One Hundred Years of Solitude",
+  "synopsis": "A landmark of magical realism, this novel follows the Buendía family over several generations in the fictional town of Macondo.",
+  "release_date": "1967-05-30",
+  "id": 8
+  },
+  {
+  "author": "Agatha Christie",
+  "title": "Murder on the Orient Express",
+  "synopsis": "A mystery novel featuring detective Hercule Poirot, who investigates a murder aboard the luxurious Orient Express train.",
+  "release_date": "1934-01-01",
+  "id": 9
+  },
+  {
+  "author": "J.D. Salinger",
+  "title": "The Catcher in the Rye",
+  "synopsis": "A novel about the teenage angst and alienation of Holden Caulfield as he navigates life in New York City.",
+  "release_date": "1951-07-16",
+  "id": 10
+  }
+]
